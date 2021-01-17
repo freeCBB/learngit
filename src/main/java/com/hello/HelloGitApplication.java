@@ -10,4 +10,8 @@ public class HelloGitApplication {
 		SpringApplication.run(HelloGitApplication.class, args);
 	}
 
+	
+	private void use4git() {
+		System.out.println("更新1");
+	}
 }
